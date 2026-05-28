@@ -1,0 +1,32 @@
+aid: oyyi
+name: oyyi
+description: "API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation"
+url: https://oyyi.xyz/docs/1.0
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: oyyi
+    description: "API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation"
+    humanURL: https://oyyi.xyz/docs/1.0
+    baseURL: https://oyyi.xyz/docs/1.0
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://oyyi.xyz/docs/1.0
+common:
+  - type: Website
+    url: https://oyyi.xyz/docs/1.0
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
