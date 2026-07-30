@@ -1,4 +1,16 @@
 aid: oyyi
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/oyyi.png
 name: oyyi
 description: "API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation"
 url: https://oyyi.xyz/docs/1.0
