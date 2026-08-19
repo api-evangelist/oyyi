@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/oyyi.png
 name: oyyi
 description: "API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation"
 url: https://oyyi.xyz/docs/1.0
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
