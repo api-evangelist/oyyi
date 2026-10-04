@@ -39,7 +39,6 @@ apis:
   - name: oyyi
     description: "API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation"
     humanURL: https://oyyi.xyz/docs/1.0
-    baseURL: https://oyyi.xyz/docs/1.0
     tags:
       - Development
     properties:
